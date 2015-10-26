@@ -12,4 +12,4 @@ A starter project based on Node.js
   * [ui-router](http://angular-ui.github.io/ui-router/)
 
 * Data model
-  * User  
+  * User (/models/user.js)
