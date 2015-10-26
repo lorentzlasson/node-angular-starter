@@ -4,7 +4,7 @@ A starter project based on Node.js
 ## Includes
 * Node.js backend
   * [passport](https://www.npmjs.com/package/passport)
-   * [passport-google-oauth](https://www.npmjs.com/package/passport-google-oauth)
+    * [passport-google-oauth](https://www.npmjs.com/package/passport-google-oauth)
   * [sequelize](https://www.npmjs.com/package/sequelize)
     * [mysql](https://www.npmjs.com/package/mysql)
 
